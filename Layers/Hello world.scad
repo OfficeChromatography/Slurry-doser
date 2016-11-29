@@ -1,0 +1,2 @@
+ linear_extrude(0.2) text("HELLO", font = "Liberation Sans", size = 19, direction = "ltr", spacing = 1 );
+ linear_extrude(0.2) translate([0,-20,0]) text("WORLD", font = "Liberation Sans", size = 19, direction = "ltr", spacing = 1 );
