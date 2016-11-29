@@ -1,5 +1,5 @@
-TLC_printing
+Slurry doser
 ===========
 
-3D printing of thin silica gel layers in planar chromatography
+Open-source-based 3D printing of thin silica gel layers in planar chromatography
 
